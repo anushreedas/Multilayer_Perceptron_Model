@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 """
-q1c.py
+q2.py
 
 This program fits the previous MLP network to the MNIST training set,
 where parameter optimization operates with mini-batches and
